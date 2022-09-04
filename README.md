@@ -1,0 +1,2 @@
+# detectDefectOfCloth
+use auto encoder
